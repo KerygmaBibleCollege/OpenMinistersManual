@@ -8,3 +8,16 @@ One of the most essential resources for productive ministry is the minister's ma
 ### Copyright
 
 The copyright to this work is entrusted in the care of Dr. Christopher Bryant, who grants a worldwide release. (Creative Commons 0 Licence)
+
+## Process
+
+### Mode of Writing
+
+We ask that all contibutors utilize either markdown, plain text, or open document format (ODF) files.
+
+### Proposed Contents
+
+1. Organizing A Church
+1. Weddings
+1. Funerals
+1. 
